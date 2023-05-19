@@ -1,0 +1,46 @@
+
+  .amazon-link {
+    transition: opacity 0.15s;
+  }
+  .amazon-link:hover {
+    opacity: 0.8;
+  }
+  .p-shoes {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .p-stock {
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+  }
+  .cart-button {
+    background-color: rgb(255, 216, 20);
+    border: none;
+    height: 30px;
+    width: 115px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.15s, opacity 0.15s;
+  }
+  .cart-button:hover {
+    background-color: rgb(231, 196, 21);
+  }
+  .cart-button:active {
+    opacity: 0.8;
+  }
+  .buy-button {
+    background-color: rgb(255, 165, 28);
+    border: none;
+    height: 30px;
+    width: 115px;
+    border-radius: 15px;
+    margin-left: 8px;
+    cursor: pointer;
+    transition: background-color 0.15s, opacity 0.15s;
+  }
+  .buy-button:hover {
+    background-color: rgb(228, 146, 23);
+  }
+  .buy-button:active {
+    opacity: 0.8;
+  }

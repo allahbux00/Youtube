@@ -1,0 +1,182 @@
+  p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: arial;
+  }
+  .video-title {
+    font-weight: bold;
+    font-size: 18px;
+    width: 280px;
+    line-height: 24px;
+    margin-bottom: 5px;
+  }
+  .video-stats{
+    font-size: 14px;
+    margin-bottom: 20px;
+    color: rgb(96,96,96);
+  }
+  .video-author{
+    color: rgb(96,96,96);
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  .video-description{
+    color: rgb(96,96,96);
+    font-size: 14px;
+    width: 280px;
+    margin-bottom:100px;
+  }
+  .apple-text{
+    background-color:rgb(227,65,64) ;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border-radius: 25px;
+    margin-bottom: 50px;
+  }
+  .shop-link{
+    cursor : pointer;
+  }
+  .shop-link:hover{
+    text-decoration: underline;
+  }
+  .tahoma-font{
+    font-family: tahoma;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  .big-deals{
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  .sales-deals{
+    color: rgb(96,96,96);
+    font-size: 15px;
+    font-style: italic;
+    margin-bottom: 20px;
+  }
+  .course-heading{
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  .beginner-text{
+    font-family: verdana;
+    color: rgb(96,96,96);
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+  .course-description{
+    width: 280px;
+    margin-bottom: 20px;
+    font-family: verdana;
+  }
+  .course-button{
+    background-color: green;
+    color: white;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 7.5px;
+  }
+  .shopping-heading{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .apple-work{
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  .learn-link{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 12px;
+    color: rgb(0, 137, 228);
+    cursor: pointer;
+  }
+  .learn-link:hover{
+    text-decoration: underline;
+    
+  }
+  .new-item{
+    color: green;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 8px;
+  }
+  .macbook-heading{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 6px;
+  }
+  .item-pros{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .item-price{
+    text-align: center;
+  }
+  .item-button{
+    background-color: rgb(1, 107, 194);
+    color: white;
+    text-align: center;
+    margin-left: 48.3%;
+    border: none;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    cursor: pointer;
+  }
+  .money-text{
+    font-size: 22px;
+    font-weight: bold;
+  }
+  .money-usd{
+    font-size: 15px;
+    font-weight: normal;
+    color: rgb(96,96,96);
+    margin-left: 6px;
+  }
+  .money-today{
+    color: green;
+  }
+  .money-hour{
+    color: rgb(96,96,96);
+    margin-bottom: 100px;
+  }
+  .money-loss{
+    color: red;
+  }
+  .email-user{
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  .email-username{
+    color: rgb(96,96,96);
+    font-weight: normal;
+  }
+  .email-text{
+    width: 500px;
+    margin-bottom: 12px;
+  }
+  .email-account{
+    color: rgb(0, 137, 228);
+  }
+  .email-end{
+    margin-bottom: 100px;
+  }
